@@ -8,10 +8,10 @@ Set on a picturesque yet perilous island, players take on the role of Emby, a br
 🕹️ Gameplay:
 With its intuitive controls and captivating pixel art visuals, Emby offers an accessible gaming experience for players of all skill levels. Navigate through intricate levels, solve puzzles, and conquer obstacles as you accompany Emby on their quest for survival and discovery. Each mission brings new challenges and opportunities, ensuring an engaging and dynamic gameplay experience.
 
-A: Left
-W: Forward
-S: Back
-D: Right
+A: Left <br>
+W: Forward <br>
+S: Back <br>
+D: Right <br>
 
 Space: conversation with other characters
 
