@@ -25,3 +25,5 @@ Simple Controls: Enjoy seamless gameplay with easy-to-master controls, allowing 
 Compelling Storyline: Unravel the mysteries of the island alongside Emby, uncovering hidden secrets and facing unexpected challenges along the way.
 🎉 Ready to Save Emby?
 Join the adventure today and experience the thrill of Emby's journey firsthand! Whether you're a seasoned gamer or new to the world of pixel art storytelling, Emby promises an unforgettable gaming experience that will keep you coming back for more.
+
+Preview(LinkedIn Post) Link: https://www.linkedin.com/feed/update/urn:li:activity:7164403743986294785/
